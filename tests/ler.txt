@@ -1,0 +1,39 @@
+2log.txt
+aguardando pagamento.png
+aguardando pagamento.png:Zone.Identifier
+app-exemplo
+arquivoPadrao.csv
+aVIVA
+aws
+awscli-exe-linux-x86_64.zip
+awscli-exe-linux-x86_64.zip:Zone.Identifier
+dgvsfdsdsf.txt
+download (1).png
+download (1).png:Zone.Identifier
+download.png
+download.png:Zone.Identifier
+Editar
+fernandev-react-challenge-02-main
+file.csv
+file.pdf
+file.pdf:Zone.Identifier
+foto 1 com nitidez.png
+foto 2 com nitidez.png
+GEEK NOVA
+image.jpg
+image.jpg:Zone.Identifier
+isento de pagamento.png
+logo.psd
+log.txt
+Meu Vídeo.mp4
+Meu Vídeo.mp4:Zone.Identifier
+rwrws.txt
+solicitação.txt
+SOS2.png
+SOS.png
+tesr.txt
+teste.csv
+testeeeeee.csv
+testeeee.txt
+TESTE ICON
+Vídeo Mobile
